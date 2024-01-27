@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC33X-2-103E
+D Cermet 3mm SMT trimmer,0.1W 10k Bourns TC33 Series SMD Cermet Trimmer Resistor with Solder Pad Terminations, 10k?? ??25% 1/10W ??250ppm/??C Top Adjust
+K
+F https://www.bourns.com/pdfs/TC33.pdf
+$ENDCMP
+#
+#End Doc Library
